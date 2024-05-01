@@ -1,4 +1,4 @@
-# Verificador de idade
+# Verificador de idade (Programa feito em JS)
 
 ## Entradas
 * Ano de Nascimento

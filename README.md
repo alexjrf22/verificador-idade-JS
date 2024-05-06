@@ -11,3 +11,4 @@
 * Idade
 * Gênero
 * Foto relativa a idade e gÊnero
+<img src="imagens/print1.png">

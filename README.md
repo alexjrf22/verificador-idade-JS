@@ -1,5 +1,7 @@
 # Verificador de idade (Programa feito em JS)
 
+<img src="imagens/print0.png">
+
 ## Entradas
 * Ano de Nascimento
 * Gênero
